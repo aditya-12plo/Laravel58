@@ -81,7 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+				  <p>{{ trans('translate.welcome')}}</p>
+				  <a href="/lang/en"> EN</a>
+				  <a href="/lang/id"> ID</a>
                 </div>
 
                 <div class="links">
